@@ -1,1 +1,4 @@
 reportlab
+streamlit
+pandas
+qrcode
